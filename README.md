@@ -1,4 +1,4 @@
-<h1 align="center">Hello. My Name is Murray. 🤟</h1>
+<h1 align="center">Hello. My Name is Murray. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h2 align="center">I'm a Husband, Father, and Software Developer 🤓</h2>
 
