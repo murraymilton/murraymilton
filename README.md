@@ -1,6 +1,6 @@
 <h1 align="center">Hello. My Name is Murray. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h2 align="center">I'm a Husband, Father, and Software Developer 🤓</h2>
+<h2 align="center">I'm Full Stack Software Developer 🤓</h2>
 
 ### About Me
 
