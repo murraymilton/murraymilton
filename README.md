@@ -108,10 +108,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alg="Windows" />
 </div>
 
-### Soft Skills
-
-Communication - Teamwork - Problem-solving - Time management - Critical thinking - Decision-making - Organizational - Stress management - Adaptability - Conflict management - Leadership - Creativity - Resourcefulness - Persuasion - Openness to criticism
-
 <h2 align="center">Thank you for stopping by my GitHub! 👋</h2>
 
 
