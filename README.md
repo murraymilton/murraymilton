@@ -120,22 +120,12 @@
 ![github graph](https://activity-graph.herokuapp.com/graph?username=murraymilton&theme=react-dark)
 <br>
 
-<p align="center">Wanna Know me More?</p>
+<p align="center">Contact Me</p>
 
 <p align="center">
  
-<a href="https://twitter.com/TidbitsJS">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
-<a href="https://www.instagram.com/tidbits.js">
-<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
-
-<a href="https://www.linkedin.com/in/sujata-gunale-15964b166/">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
-    
-<a href="https://tidbitsjs.medium.com/">
-<img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>  
 
 </p>
 
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=TidbitsJS.TidbitsJS" alt="TidbitsJS :: Visitor's Count" /></p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=murraymilton.murraymilton" alt="murraymilton :: Visitor's Count" /></p>
