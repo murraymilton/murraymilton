@@ -4,11 +4,7 @@
 
 ### About Me
 
-- ❤️ Family is everything to me.
-- 💻 Coding is my passion.
-- 👯 I enjoy collaborating with other developers, and also working solo.
-- 🥅 2021 Goal: Contribute to the open source community a total of 1000 times.
-- 🧗 I enjoy the outdoors and going on road trips. 
+
 
 ### Look into my world:
 
