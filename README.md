@@ -104,6 +104,14 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alg="Windows" />
 </div>
 
+## Languages Usage 🌟
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murraymilton&theme=react)](https://github.com/murraymilton/github-readme-stats)
+
+
+
+ <br />
+
 <h2 align="center">Thank you for stopping by my GitHub! 👋</h2>
 
 
