@@ -1,4 +1,4 @@
-<h1 align="center">Hello. My Name is Murray Milton. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello. My Name is Murray Milton. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h1>
 
 <h2 align="center">I'm Full Stack Software Developer 🤓</h2>
 
