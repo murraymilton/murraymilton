@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 *   🌍  I'm based in Germany
-*   🖥️  See my portfolio at [Portfolio](http://https://murraymilton.github.io/portfolio/)
+*   🖥️  See my portfolio at [Portfolio](https://murraymilton.github.io/portfolio/)
 *   ✉️  You can contact me at [x](mailto:x)
 *   🚀  I'm currently working on [x](http://x)
 *   🧠  I'm learning x
